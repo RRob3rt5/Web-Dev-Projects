@@ -1,0 +1,16 @@
+* Briefly describe one way how data travels the internet:
+One way that data travels on the internet is through packets. Packets contain up to 1500 megabytes and are sent from one system to another. Because data can be broken down into these packets and reassembled at the other end, is one of the main reasons as to how the internet is so fast.
+
+* What is the relationship between IP address and the DNS?
+The relationship between the IP address and the DNS is that the IP address is the numerical way to represent the location of the DNS. The DNS is the name of the IP address ultimately, when one is looking for google.com, the domain name (google.com) is translated into an IP address that makes it easier for computers to access from anywhere.
+
+* What is a cookie?
+Cookies are small files that hold a moderate amount of information from certain websites visited, that way when the user decides to re-visit the website, the pages can load faster since it has saved information.
+
+* List the three basic parts of a URL:
+
+1.Protocol
+
+2.Domain name
+
+3.Path
