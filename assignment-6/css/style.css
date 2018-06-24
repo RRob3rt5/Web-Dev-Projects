@@ -1,0 +1,10 @@
+/* My First CSS Sheet! */
+body {background-color: goldenrod;}
+div {background-color: cadetblue; border-style: solid; border-width: 5px; border-color: forestgreen; opacity: .9}
+iframe {background-color: white}
+* {font-family: KeeponTruckin; src:KeeponTruckin.ttf}
+p {font-size: 20; color: chocolate; border-style: solid; border-width: 2px; border-color: forestgreen; background-color: forestgreen;}
+.styled {color: black;}
+p.styled {border: 2px black;}
+h2 {font-size: 30; color: maroon;}
+h1 {font-size: 30; color: maroon;}
