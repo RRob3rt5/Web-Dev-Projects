@@ -18,7 +18,7 @@ p {font-size: 30;
 .skills {
         position: absolute;
         bottom: 300;
-        right: 0;
+        right: 200;
         width: 530;
         height: 200;
         background-color: coral;
