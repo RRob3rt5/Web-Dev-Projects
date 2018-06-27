@@ -5,7 +5,7 @@ h1 {font-size: 48;
     bottom: 600;
     width: 515;
     height: 45;
-    left: 300;
+    left: 200;
     background-color: coral;
     border: 4px solid black;
     border-color: blue;
@@ -18,7 +18,7 @@ p {font-size: 30;
 .skills {
         position: absolute;
         bottom: 300;
-        right: 200;
+        left: 300;
         width: 530;
         height: 200;
         background-color: coral;
