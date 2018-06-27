@@ -1,7 +1,8 @@
 body {font-family: copperplate;
       background-color: lightgray;}
 h1 {font-size: 48;
-    position: static;
+    position: absolute;
+    top: 100;
     width: 515;
     height: 45;
     background-color: coral;
@@ -14,17 +15,21 @@ ul {font-size: 24}
 p {font-size: 30;
   color: black; }
 .skills {
-        position: static;
-        width: 530;
-        height: 200;
+        position: absolute;
+        top: 400;
+        left: 50
+        width:auto;
+        height: auto;
         background-color: coral;
         border: 4px solid black;
         border-color: blue;
-        padding: 1em;
+        padding: 2em;
         z-index: 10
         }
 .github {
-        position: static;
+        position: absolute;
+        bottom: 60;
+        right: 100
         width: 475;
         height: 90;
         background-color: coral;
