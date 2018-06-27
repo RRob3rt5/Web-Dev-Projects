@@ -2,8 +2,8 @@ body {font-family: copperplate;
       background-color: lightgray;}
 h1 {font-size: 56;
     position: static;
-    width: 560;
-    height: 45;
+    width: 450px;
+    height: 45px;
     background-color: coral;
     border: 4px solid black;
     border-color: blue;
@@ -15,7 +15,7 @@ p {font-size: 40;
   color: black; }
 .skills {
         position: static;
-        width:600;
+        width:600px;
         height: auto;
         background-color: coral;
         border: 4px solid black;
@@ -32,15 +32,15 @@ a:hover {
 .linkedin {
           position: static;
           background-color: cornflowerblue;
-          height: 100;
-          width: 120;
+          height: 100px;
+          width: 120px;
           z-index:5;
           margin: 1em;
           }
 .github {
           position: static;
-          width: 510;
-          height: 90;
+          width: 510px;
+          height: 90px;
           background-color: coral;
           border: 4px solid blue;
           padding: 1em
