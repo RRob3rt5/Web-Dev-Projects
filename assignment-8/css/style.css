@@ -1,11 +1,9 @@
 body {font-family: copperplate;
       background-color: lightgray;}
 h1 {font-size: 48;
-    position: absolute;
-    bottom: 600;
+    position: static;
     width: 515;
     height: 45;
-    left: 200;
     background-color: coral;
     border: 4px solid black;
     border-color: blue;
@@ -16,9 +14,7 @@ ul {font-size: 24}
 p {font-size: 30;
   color: black; }
 .skills {
-        position: absolute;
-        bottom: 300;
-        left: 300;
+        position: static;
         width: 530;
         height: 200;
         background-color: coral;
@@ -28,9 +24,7 @@ p {font-size: 30;
         z-index: 10
         }
 .github {
-        position: absolute;
-        bottom: 55;
-        right: 0;
+        position: static;
         width: 475;
         height: 90;
         background-color: coral;
@@ -45,10 +39,9 @@ a:hover {
 }
 .linkedin {
           position: absolute;
-          right: 300;
+          right: 25px;
+          top: 25px;
           background-color: cornflowerblue;
-          top: 0;
-          bottom: 0;
           z-index:5;
           margin: 1em;
           }
